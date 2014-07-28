@@ -2,6 +2,6 @@
 
 <p>Basic CRUD user app (backbone.js)</p>
 
-<a href="http://brettmccaffray.com/webapps/backboneusers/">DEMO</a>
+<a href="http://brettmccaffray.com/webapps/backboneusers/" target="_blank">DEMO</a>
 
 <p>Built with help from a couple tutorials/already made apps</p>
